@@ -1,0 +1,15 @@
+body {
+    background-color: #2f343d;
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+h1 {
+    color: White;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+  }
